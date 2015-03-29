@@ -1,4 +1,11 @@
 ##Asus Q501LA Hackintosh##
+
+This is an update to the original repository files to be able to run Yosemite 10.10.2 which did not work on the original files. Instructions and issues fixed detailed in the Wiki page for this fork
+
+https://github.com/gvkt/Asus-Q501LA-Hackintosh/wiki
+
+The original readme follows:
+
 Hello,
 
 My laptop, Asus Q501LA, hackintosh is near 100% stable.
